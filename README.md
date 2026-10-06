@@ -2,7 +2,7 @@
 [![Commit Activity](https://img.shields.io/github/commit-activity/t/bexino/qqmusic-linux-fix?color=green)](https://github.com/bexino/qqmusic-linux-fix/commits/main/)
 [![License](https://img.shields.io/github/license/bexino/qqmusic-linux-fix?color=blue)](https://github.com/bexino/qqmusic-linux-fix/blob/main/LICENSE)
 [![MadeWith♥](https://img.shields.io/badge/@bexino-Made_With_♥-purple)](https://github.com/bexino)
-[![ViewInGithub](https://img.shields.io/badge/Github-bexino%2Fqqmusic__linux__fix-white?logo=github&logoColor=auto&labelColor=555555&color=ffffff)](https://github.com/bexino/qqmusic-linux-fix/)
+[![ViewInGithub](https://img.shields.io/badge/Github-bexino%2Fqqmusic__linux__fix-white?logo=github&logoColor=auto&labelColor=555555&color=000000)](https://github.com/bexino/qqmusic-linux-fix/)
 
 # qqmusic-linux-fix
 
